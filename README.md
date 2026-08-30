@@ -105,5 +105,5 @@ This is a personal learning project and is free to use/reference for educational
 
 
 **Your Name**
-📧 your.email@example.com
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/yourusername)
+📧 anuska.dasguptaa@example.com
+🔗 [LinkedIn](https://www.linkedin.com/in/anuska-dasgupta-232a30293/) | [GitHub](https://github.com/anu31d)
